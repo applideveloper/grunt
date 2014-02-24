@@ -1,0 +1,16 @@
+/*! ライセンス */
+/*! style 1 */
+h1 {
+  color: #6c94be;
+}
+h2 {
+  color: #6cb7e0;
+}
+
+/* style2 */
+body {
+  background: #eeeeee;
+}
+body p {
+  margin-left: 10px;
+}
